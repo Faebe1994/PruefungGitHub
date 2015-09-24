@@ -1,1 +1,2 @@
 Das ist ein Text File im Master Branch.
+Das ist ein Beispiel Text aus dem Ast1 Branch
